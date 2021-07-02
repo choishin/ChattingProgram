@@ -1,2 +1,1 @@
-# ChattingProgram
-Practice Server/Client making
+<h1>Practice Server/Client making</h1>
